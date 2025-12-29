@@ -1,6 +1,5 @@
 # 💫 About Me:
-React Ecosystem Specialist: Focused on building modular and maintainable software using component-based architecture.<br><br>Strong Algorithmic Foundation: Leveraging an academic background in C and Python to apply rigorous logic to modern web solutions.<br><br>Dynamic Web Development: Bridging low-level programming concepts with high-level frontend development.
-
+I am a Computer Science undergraduate (Class of 2029) at Manipal University Jaipur, driven by the synergy between functional engineering and aesthetic design. My goal is to build scalable, user-centric web applications while adhering to clean coding standards and accessibility best practices.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hitesh_pundhir025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-pundhir-4355a7377) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hiteshpundhir25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshpundhir25@gmail.com) 
